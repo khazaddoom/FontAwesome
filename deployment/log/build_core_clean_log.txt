@@ -1,0 +1,8 @@
+﻿Buildfile: C:\Users\Ganesh\Documents\Mendix\FontAwecome\deployment\build_core.xml
+
+clean:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

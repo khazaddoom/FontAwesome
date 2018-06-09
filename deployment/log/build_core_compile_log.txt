@@ -1,0 +1,13 @@
+﻿Buildfile: C:\Users\Ganesh\Documents\Mendix\FontAwecome\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 26 source files to C:\Users\Ganesh\Documents\Mendix\FontAwecome\deployment\run\bin
+
+build:
+      [bnd] # addAll 'deployment/run/bnd.bnd' with ,
+      [bnd] # project (project.jar) 47 
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+
+

@@ -1,0 +1,9 @@
+﻿Buildfile: C:\Users\Ganesh\Documents\Mendix\FontAwecome\deployment\build_core.xml
+
+deploy:
+    [unzip] Expanding: C:\Program Files\Mendix\7.8.0\modeler\deployment.mxz into C:\Users\Ganesh\Documents\Mendix\FontAwecome\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
